@@ -99,9 +99,9 @@ Lembre-se que você pode consultar nosso conteúdo sobre [Git & GitHub](https://
 
 - Projeto individual.
 
-- Serão `X` dias de projeto.
+- Será 1 dia de projeto.
 
-- Data de entrega para avaliação final do projeto: `DD/MM/YYYY - 14:00h`.
+- Data de entrega para avaliação final do projeto: `05/01/2022 - 14:00h`.
 
 # Instruções para entregar seu projeto
 

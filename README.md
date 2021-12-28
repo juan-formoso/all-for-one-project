@@ -1,5 +1,16 @@
-# Habilidades
-Nesse projeto, você será capaz de:
+# All For One Project
+
+# Contexto
+O objetivo do projeto é praticar todos os conceitos de SQL aprendidos sobre banco de dados relacionais, consulta e filtro de dados em um banco e também a manipular tabelas e suas informações. Para isso, será utilizado o banco de dados "Northwind".
+
+Os requisitos podem ser encontrados [aqui](requirements.txt) e suas resoluções se encontram na pasta 'challenges'.
+
+## Tecnologias usadas
+
+Banco de dados:
+> Desenvolvido usando: MySQL
+
+## Habilidades treinadas
 
 - Entender o que são bancos de dados
 - Entender como a linguagem de consulta estruturada (SQL) é usada
@@ -24,28 +35,6 @@ Nesse projeto, você será capaz de:
 - Inserir dados em tabelas com `INSERT`
 - Atualizar dados em tabelas com `UPDATE`
 - Apagar dados em tabelas com `DELETE`
-
-## O que deverá ser desenvolvido
-
-Hoje você fará um projeto com o codinome *All For One* em que praticará todos os conceitos de SQL já ensinados até aqui. Porém, você vai usar um banco de dados totalmente diferente, então dê tchau para o `sakila` e dê boas vindas ao `Northwind`, que será usado neste projeto. As instruções de como restaurar o banco podem ser lidas a seguir.
-
-## Desenvolvimento
-
-Temos, nesse projeto, uma série de desafios com diferentes níveis de complexidade que devem ser resolvidos cada um em seu arquivo próprio.
-
-1. Leia a pergunta e crie na raiz do projeto um arquivo chamado desafioN.sql, em que N é o número do desafio;
-
-2. O arquivo deve conter apenas o código SQL do desafio resolvido. **Não se esqueça de incluir o ponto e vírgula (";")** no final de suas queries e também de colocar o nome do **banco_de_dados.tabela_por_completo**, como no exemplo a seguir:
-
-```sql
-SELECT * FROM northwind.orders;
-```
-
-3. Faça isso até finalizar todos os desafios.
-
-4. Para entregar o seu projeto você deverá criar um _Pull Request_ neste repositório. Este _Pull Request_ deverá conter os arquivos `desafio1.sql`, `desafio2.sql` e assim por diante até o `desafio27.sql`, que conterão seu código `SQL` de cada desafio, respectivamente.
-
-5. **Não é necessário colocar** `USE northwind` ou `SET SQL_SAFE_UPDATES = 0;` no início dos seus arquivos.
 
 ## Antes de começar a desenvolver
 
